@@ -1,0 +1,7 @@
+{
+  "name": "Copy of QuickOnboardAI",
+  "description": "An AI-powered recruitment and onboarding platform that accelerates the journey from job matching to Day 1 through intelligent resume parsing and automated compliance workflows.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
